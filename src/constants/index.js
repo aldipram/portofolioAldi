@@ -23,6 +23,7 @@ import {
     weddingInvitation,
     hotel,
     threejs,
+    imaginify,
   } from "../assets";
   
   export const navLinks = [
@@ -200,7 +201,7 @@ import {
     {
       name: "Filter Search",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "create a search filter feature for a Hajj Umrah Badal tour and travel package.",
       tags: [
         {
           name: "HTML",
@@ -221,7 +222,7 @@ import {
     {
       name: "Wedding Invitation",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "Simple wedding invitation created using React JS and Tailwind CSS.",
       tags: [
         {
           name: "React JS",
@@ -259,6 +260,27 @@ import {
       ],
       image: hotel,
       source_code_link: "https://github.com/aldipram/hotel-management-Next.js",
+    },
+    {
+      name: "Imaginify",
+      description:
+        "Application for changing image sizes, changing colors in images, deleting objects in images and removing backgrounds using AI.",
+      tags: [
+        {
+          name: "Next JS",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "TailwindCSS",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Typescript",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: imaginify,
+      source_code_link: "https://imaginify-by-aldi.vercel.app",
     },
   ];
   

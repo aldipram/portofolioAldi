@@ -29,6 +29,7 @@ import tesla from "./company/tesla.png";
 import filterJS from "./filterJS.png"
 import weddingInvitation from "./WeddingInvitation.png"
 import hotel from "./hotel.png"
+import imaginify from "./Imaginify.png"
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   filterJS,
   weddingInvitation,
   hotel,
+  imaginify
 };
